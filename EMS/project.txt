@@ -1,0 +1,5 @@
+Pid	Pname	Teamsize	Pdomain	Pclient	Pmanager
+100	EMS	30	WEB	Asterisk	venkat
+101	LMS	25	telecom	Aditi	Karuna
+102	HCL	40	banking	HCL	venkat
+103	HCP	20	Healtj	venkata	srinivas

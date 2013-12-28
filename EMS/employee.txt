@@ -1,0 +1,5 @@
+Deptno	Dname	Loc
+10	IT	Hyd	
+20	Sales	Blr	
+30	NW	Delhi	
+40	NonIT	NRT	

@@ -1,0 +1,5 @@
+f=open("logindetails.txt","w")
+f.write("Username\tPassword\tType\n")
+f.write("Admin\tAdmin\tadmin\n")
+f.write("NonAdmin\tNonAdmin\tnonadmin")
+f.close()
